@@ -25,7 +25,18 @@ The Service Desk Intelligence Platform is designed to modernize IT support opera
 The platform focuses on improving operational efficiency by helping support teams classify incidents, prioritize tickets, generate troubleshooting guidance, and streamline escalation workflows.
 
 ---
+# ▶️ Example Workflow
 
+```javascript
+const ticket = {
+   id: 1001,
+   description: "User unable to connect to VPN."
+};
+
+const classification = classifyTicket(ticket);
+
+console.log(classification);
+```
 # 💻 System Workflow
 
 ```plaintext
