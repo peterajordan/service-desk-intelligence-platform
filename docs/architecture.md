@@ -25,3 +25,13 @@ GPT Workflow Assistance
 - Escalation Logic Engine
 - GPT Workflow Layer
 - Automation Modules
+
+# 🛣️ Roadmap
+
+| Version | Features |
+|---|---|
+| v1 | Ticket classification |
+| v2 | Priority scoring |
+| v3 | GPT-assisted troubleshooting |
+| v4 | Dashboard analytics |
+| v5 | Multi-agent orchestration |
